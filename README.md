@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">Software Engineer</h3>
-<center>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -21,4 +20,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sushil37&theme=tokyonight&hide_border=true)
 
-</center>
