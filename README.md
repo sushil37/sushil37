@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" align="center" style="width: 100%" /></h1>
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">Software Engineer</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" align="center" style="width: 100%" /></h3>
 
 - 💬 Ask me about **PHP, Laravel,React and Fastify**
 
