@@ -16,7 +16,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h3 align="center">📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sushil37&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) &nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=sushil37&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=sushil37&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sushil37&theme=tokyonight&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil37&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   </h3>
