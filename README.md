@@ -4,7 +4,7 @@
 - 💬 Ask me about **PHP, Laravel,React and Fastify**
 
 - 📫 How to reach me **sushil.shrestha3000@gmail.com**
-
+[![](https://visitcount.itsvg.in/api?id=sushil37&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sushil-shrestha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushil-shrestha/" height="30" width="40" /></a>
