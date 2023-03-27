@@ -1,10 +1,15 @@
+<img src="https://s6.gifyu.com/images/typescript.gif" align="center" style="width: 100%" />
+
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 💬 Ask me about **PHP, Laravel,React and Fastify**
 
 - 📫 How to reach me **sushil.shrestha3000@gmail.com**
--<iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" 
+     align="center" style="width: 100%" />
+
+
 [![](https://visitcount.itsvg.in/api?id=sushil37&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
