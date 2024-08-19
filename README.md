@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
 </p>
 
 <h3 align="center">Connect with me:</h3>
